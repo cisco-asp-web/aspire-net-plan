@@ -23,6 +23,7 @@
   - [📚 Recommended Books (WIP):](#-recommended-books-wip)
   - [📚 Recommended AI Tools (WIP):](#-recommended-ai-tools-wip)
     - [🧠 \*\*ChatGPT (OpenAI) / Circuit (Cisco Internal GPT) / Claude / Gemini \*\*](#-chatgpt-openai--circuit-cisco-internal-gpt--claude--gemini-)
+    - [🧠 **Notebook LM**](#-notebook-lm)
   - [💻 2. Developer/Engineer-Focused Assistants - Terminal - SSH and RDP Manager](#-2-developerengineer-focused-assistants---terminal---ssh-and-rdp-manager)
     - [🧑‍💻 **Cursor (VS Code AI IDE)**](#-cursor-vs-code-ai-ide)
     - [✍️ **GitHub Copilot**](#️-github-copilot)
@@ -217,6 +218,16 @@ TCP/IP By Jeff Doyle (Only because I helped in that book => JK)
 - Supports code, markdown, and diagram planning
 
 **Best For:** Protocol explanation, mentorship conversations, lab logic
+
+### 🧠 **Notebook LM** 
+- Supercharge the learning experience
+- Create your own notes, sources 
+- Summarize
+- Create content based on the sources
+- Asks questions
+
+**Best For:** Learning :) 
+
 
 ## 💻 2. Developer/Engineer-Focused Assistants - Terminal - SSH and RDP Manager
 
