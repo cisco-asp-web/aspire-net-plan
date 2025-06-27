@@ -17,6 +17,7 @@
   - [⚙️ PHASE 4: Telemetry \& Automation](#️-phase-4-telemetry--automation)
     - [🔧 Core Technologies](#-core-technologies-3)
     - [🛠 Tools](#-tools-1)
+    - [Github Repo](#github-repo)
   - [🧾 PHASE 5: Infrastructure Awareness (Beyond Protocols)](#-phase-5-infrastructure-awareness-beyond-protocols)
     - [🔧 Core Topics](#-core-topics)
   - [📚 Recommended Books (WIP):](#-recommended-books-wip)
@@ -173,6 +174,8 @@ Author: nicmcl@cisco.com
   - Telemetry export from NX-OS to Grafana
   - Python script to check BGP state and log deltas
 
+### Github Repo
+- [Awesome Network Automation Repo](https://github.com/networktocode/awesome-network-automation)
 ---
 
 ## 🧾 PHASE 5: Infrastructure Awareness (Beyond Protocols)
@@ -279,6 +282,4 @@ TCP/IP By Jeff Doyle (Only because I helped in that book => JK)
 
 ### 🧜‍♀️ **Mermaid**
 - Diagramming language
-
-
 
