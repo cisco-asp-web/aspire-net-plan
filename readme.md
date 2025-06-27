@@ -22,19 +22,18 @@
   - [📚 Recommended Books (WIP):](#-recommended-books-wip)
   - [📚 Recommended AI Tools (WIP):](#-recommended-ai-tools-wip)
     - [🧠 \*\*ChatGPT (OpenAI) / Circuit (Cisco Internal GPT) / Claude / Gemini \*\*](#-chatgpt-openai--circuit-cisco-internal-gpt--claude--gemini-)
-  - [💻 2. Developer/Engineer-Focused Assistants](#-2-developerengineer-focused-assistants)
+  - [💻 2. Developer/Engineer-Focused Assistants - Terminal - SSH and RDP Manager](#-2-developerengineer-focused-assistants---terminal---ssh-and-rdp-manager)
     - [🧑‍💻 **Cursor (VS Code AI IDE)**](#-cursor-vs-code-ai-ide)
     - [✍️ **GitHub Copilot**](#️-github-copilot)
+    - [💡 **Warp AI Terminal**](#-warp-ai-terminal)
+    - [👻 **Ghostty**](#-ghostty)
+    - [💻🔐 **Royal TSX**](#-royal-tsx)
   - [📊 3. Diagramming \& Visualization](#-3-diagramming--visualization)
-    - [✏️ **Draw.io**](#️-drawio)
+    - [✏️ **Draw io**](#️-draw-io)
     - [🗂️ **Whimsical AI**](#️-whimsical-ai)
     - [🧾 **Miro AI**](#-miro-ai)
     - [🧩 **Excalidraw + GPT Plugin**](#-excalidraw--gpt-plugin)
     - [🧜‍♀️ **Mermaid**](#️-mermaid)
-  - [🧪 4. Testing \& Terminal Emulators  -](#-4-testing--terminal-emulators---)
-    - [💡 **Warp AI Terminal**](#-warp-ai-terminal)
-    - [👻 **Ghostty**](#-ghostty)
-    - [💻🔐 **Royal TSX**](#-royal-tsx)
 
 --- 
 
@@ -216,7 +215,7 @@ TCP/IP By Jeff Doyle (Only because I helped in that book => JK)
 
 **Best For:** Protocol explanation, mentorship conversations, lab logic
 
-## 💻 2. Developer/Engineer-Focused Assistants
+## 💻 2. Developer/Engineer-Focused Assistants - Terminal - SSH and RDP Manager
 
 ### 🧑‍💻 **Cursor (VS Code AI IDE)**
 - AI code assistant for network automation and scripting
@@ -231,9 +230,30 @@ TCP/IP By Jeff Doyle (Only because I helped in that book => JK)
 
 **Best For:** Supplementing coding lessons
 
+### 💡 **Warp AI Terminal**
+- GPT-powered terminal suggestions and command explanations
+- Supports Bash, Zsh, etc.
+
+**Best For:** Linux/NetDevOps education; teaching CLI habits
+
+### 👻 **Ghostty**
+- Best all around terminal
+- Supports Bash, Zsh, etc.
+
+**Best For:** All around terminal (again)
+
+
+### 💻🔐 **Royal TSX**
+- Best SSH / RDP manager
+
+**Best For:** Connecting to your labs using SSH and RDP
+
+
+
+
 ## 📊 3. Diagramming & Visualization
 
-### ✏️ **Draw.io**
+### ✏️ **Draw io**
 - Networking Diagram :) 
 
 
@@ -262,23 +282,3 @@ TCP/IP By Jeff Doyle (Only because I helped in that book => JK)
 
 
 
-## 🧪 4. Testing & Terminal Emulators  - 
-
-### 💡 **Warp AI Terminal**
-- GPT-powered terminal suggestions and command explanations
-- Supports Bash, Zsh, etc.
-
-**Best For:** Linux/NetDevOps education; teaching CLI habits
-
-
-### 👻 **Ghostty**
-- Best all around terminal
-- Supports Bash, Zsh, etc.
- 
-
-### 💻🔐 **Royal TSX**
-- Best SSH / RDP manager
-
-**Best For:** Connecting to your labs using SSH and RDP
-
----
