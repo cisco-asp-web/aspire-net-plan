@@ -1,10 +1,10 @@
-# Emerging Network Engineer Strategy Plan –  - WEB ASP
+# Emerging Network Engineer Strategy Plan - WEB ASP
 
 
 ---
 
 ## 📚 Table of Contents
-- [Emerging Network Engineer Strategy Plan –  - WEB ASP](#emerging-network-engineer-strategy-plan-----web-asp)
+- [Emerging Network Engineer Strategy Plan - WEB ASP](#emerging-network-engineer-strategy-plan---web-asp)
   - [📚 Table of Contents](#-table-of-contents)
   - [🧱 PHASE 1: Core Networking – Deep-Level Foundations](#-phase-1-core-networking--deep-level-foundations)
     - [🔧 Core Technologies](#-core-technologies)
@@ -36,7 +36,12 @@
     - [🧾 **Miro AI**](#-miro-ai)
     - [🧩 **Excalidraw + GPT Plugin**](#-excalidraw--gpt-plugin)
     - [🧜‍♀️ **Mermaid**](#️-mermaid)
-
+  - [🌐 4. Lab Networking Tools](#-4-lab-networking-tools)
+    - [🧪 Containerlab](#-containerlab)
+    - [🧪 Netlab](#-netlab)
+  - [🔍 5. Traffic Capture \& Analysis](#-5-traffic-capture--analysis)
+    - [🦈 Wireshark](#-wireshark)
+    - [🦈 EdgeShark](#-edgeshark)
 --- 
 
 Author: nicmcl@cisco.com
@@ -294,3 +299,24 @@ TCP/IP By Jeff Doyle (Only because I helped in that book => JK)
 ### 🧜‍♀️ **Mermaid**
 - Diagramming language
 
+## 🌐 4. Lab Networking Tools
+
+### 🧪 Containerlab
+
+- A fast and flexible lab orchestration framework that lets you define, deploy, and manage realistic network topologies using containerized and virtualized network operating systems.
+- Supports a wide range of NOSes like FRRouting, SONiC, Cisco IOS-XE, Cisco IOS XR, Cisco NX-OS
+- Great for topology prototyping, testing, and CI/CD workflows in network automation.
+
+### 🧪 Netlab
+- A powerful topology automation tool that simplifies lab creation using YAML files and supports backends like Containerlab, VirtualBox, VMware, and more.
+- Excellent for educational use, vendor-agnostic labs, and generating consistent configurations across platforms.
+- Complements Containerlab by providing high-level abstraction and multivendor support.
+
+## 🔍 5. Traffic Capture & Analysis
+
+### 🦈 Wireshark
+ - The industry-standard GUI tool for packet capture and deep protocol inspection.
+ 
+
+### 🦈 EdgeShark
+- A containerized web-based packet analysis tool, often deployed alongside labs in Containerlab.
