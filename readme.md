@@ -344,7 +344,7 @@ TBD
 
 Cisco U is an adaptive learning platform that helps you build networking skills through structured learning paths, hands-on labs, and real-world scenarios. Whether you're starting with CCNA or preparing for your CCIE, Cisco U guides you with curated content and progress tracking tailored to your goals.
 
-🔗 [Start learning at Cisco U](https://u.cisco.com)
+🔗 [Start learning at Cisco U](https://u.cisco.com) . Make sure to use the [AI Assistant](https://u.cisco.com/ai-assistant)
 
 
 ### 🏢 Enterprise Track
